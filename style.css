@@ -301,3 +301,18 @@ header i {
 	text-decoration: underline;
 	transform: translateY(-5px);
 }
+
+.footer .social-icons {
+	text-align: center;
+	font-size: 30px;
+}
+
+.footer .social-icons i {
+	color: white;
+	transition: transform 0.2s ease;
+}
+
+.footer .social-icons i:hover {
+	color: black;
+	transform: translateY(-5px);
+}
