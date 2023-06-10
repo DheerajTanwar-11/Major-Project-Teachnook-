@@ -4,7 +4,7 @@ _This is the final major project which is given by teachnook in order to complet
 
 # Click on below link to see the project
 
-[MajorProject](https://major-project-teachnook.netlify.app/)
+[MajorProject](https://major-project-teachnook.netlify.app)
 
 # SOme of the project screen shot
 
