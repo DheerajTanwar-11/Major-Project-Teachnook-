@@ -4,9 +4,9 @@ _This is the final major project which is given by teachnook in order to complet
 
 # SOme of the project screen shot
 
-![Image1](./Asset/Image1.jpg)
+![Image1](./Assets/Image1.jpg)
 ![Image2](./Assets/Image2.jpg)
-![Image3](./Assets/Image3.jpgjpg)
+![Image3](./Assets/Image3.jpg)
 
 # Acknowledgement
 
